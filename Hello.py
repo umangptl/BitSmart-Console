@@ -24,28 +24,31 @@ def run():
         page_icon="🚀",
     )
 
-    st.write("# Welcome to BitSmart! 🚀")
+    st.write("# Welcome to 🚀 BitSmart! 🌕 ")
 
     st.sidebar.success("Select the Console above.")
 
     st.markdown(
         """
-        BitSmart is a Machine learing based Bitcoin Price Prediction recommendating 
-        Swing trading strategies.
+        BitSmart is a Machine learing based Bitcoin Price Prediction which Recommendates 
+        Swing Trading Strategies.
 
         **👈 Select the console from the sidebar** to see it yourself of what Bitsmart can do!
 
-        ### Team Meambers
-        - Umang Patel 
-        - Abhilash Tayade
-        - Kevin Thomas
-        - Ishan Kiran Girgaonkar
+        This is a forked repository that extends the functionality with more models. The parent repository has limitations.
+        In this repository, I operate without limitations, focusing on personal exploration and fun projects.
+        This app is authored by Umang Patel.
+
+
+        ## Parent repo
+        https://bitcointrader.streamlit.app/Bitsmart_Console
       
         ### Disclaimer 
-        - The content on this website is for informational purposes only and should not be considered as financial advice. All investment decisions are at your own risk.
+        - The content on this website is for informational purposes only and should not be considered as financial advice. 
+        All investment decisions are at your own risk.
         
         ### Educational Purpose
-        - The project is implemented for educational purposes during a course work for a class. 
+        - The project is implemented to extend educational purposes after a course work for a class. 
         - It is intended to provide practical experience with Machine Learing methodologies and techniques.
     """
     )
