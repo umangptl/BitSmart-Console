@@ -3,7 +3,7 @@
 ## Overview
 BitSmart is a machine learning project focused on Bitcoin price prediction and swing trading. Utilizing advanced algorithms and data analysis, we aim to provide insights into the volatile world of cryptocurrency markets.
 
-## URl to access the app <coming....>
+## Access the app link - https://bitsmart-console.streamlit.app
 
 ## Repository Structure
 - App: This directory contains the Streamlit application code, providing a directly linked platform for users to engage with the project.
